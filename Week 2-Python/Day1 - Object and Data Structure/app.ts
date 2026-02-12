@@ -10,3 +10,9 @@ for( let x= 0 ; x<arr.length; x++){
     // we can get index
     console.log("The Index is "+ x +"and the value is " + arr[x])
 }
+
+
+
+function sayhello(){
+    console.log("Hello")
+}
